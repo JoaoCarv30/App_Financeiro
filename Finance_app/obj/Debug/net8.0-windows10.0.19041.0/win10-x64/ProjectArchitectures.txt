@@ -1,0 +1,1 @@
+C:\Dev\Maui\App_Financeiro\Finance_app\Finance_app.csproj;x64

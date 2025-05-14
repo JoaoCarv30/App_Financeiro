@@ -1,4 +1,6 @@
-﻿namespace Finance_app
+﻿using Finance_app.Views;
+
+namespace Finance_app
 {
     public partial class App : Application
     {
@@ -6,7 +8,13 @@
         {
             InitializeComponent();
 
+            RegisterRoutes();
             MainPage = new AppShell();
+        }
+
+        public void RegisterRoutes()
+        {
+            Routing.RegisterRoute(nameof(HomePage), typeof(HomePage));
         }
     }
 }

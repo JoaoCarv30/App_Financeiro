@@ -33167,11 +33167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Maui\\Maui_Finance\\Finance_app\\Finance_app.csproj",
+      "projectUniqueName": "C:\\Dev\\Maui\\App_Financeiro\\Finance_app\\Finance_app.csproj",
       "projectName": "Finance_app",
-      "projectPath": "C:\\Dev\\Maui\\Maui_Finance\\Finance_app\\Finance_app.csproj",
+      "projectPath": "C:\\Dev\\Maui\\App_Financeiro\\Finance_app\\Finance_app.csproj",
       "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Maui\\Maui_Finance\\Finance_app\\obj\\",
+      "outputPath": "C:\\Dev\\Maui\\App_Financeiro\\Finance_app\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

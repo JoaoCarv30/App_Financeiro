@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LEr7QZCWI38=",
+  "dgSpecHash": "S10bkisqjPE=",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Maui\\Maui_Finance\\Finance_app\\Finance_app.csproj",
+  "projectFilePath": "C:\\Dev\\Maui\\App_Financeiro\\Finance_app\\Finance_app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -112,15 +112,15 @@
     "C:\\Users\\joaov\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.148\\microsoft.android.runtime.34.android-x64.34.0.148.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.148\\microsoft.android.runtime.34.android-arm64.34.0.148.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.ref.34\\34.0.148\\microsoft.android.ref.34.34.0.148.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-arm\\34.0.148\\microsoft.android.runtime.34.android-arm.34.0.148.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.148\\microsoft.android.runtime.34.android-arm64.34.0.148.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-x86\\34.0.148\\microsoft.android.runtime.34.android-x86.34.0.148.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.148\\microsoft.android.runtime.34.android-x64.34.0.148.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.ios.ref.net8.0_18.0\\18.0.8319\\microsoft.ios.ref.net8.0_18.0.18.0.8319.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0\\18.0.8319\\microsoft.ios.runtime.iossimulator-x64.net8.0_18.0.18.0.8319.nupkg.sha512",
-    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0\\18.0.8319\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0.18.0.8319.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.maccatalyst.ref.net8.0_18.0\\18.0.8319\\microsoft.maccatalyst.ref.net8.0_18.0.18.0.8319.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0\\18.0.8319\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_18.0.18.0.8319.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
   "logs": []
