@@ -199,20 +199,44 @@
     <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-100.png">
+      <PackagePath>building.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-125.png">
+      <PackagePath>building.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-150.png">
+      <PackagePath>building.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-200.png">
+      <PackagePath>building.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-400.png">
+      <PackagePath>building.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart1.scale-100.png">
+      <PackagePath>cart1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart2.scale-100.png">
+      <PackagePath>cart2.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cifrao.scale-100.png">
+      <PackagePath>cifrao.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-100.png">
+      <PackagePath>drink_fill.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-125.png">
+      <PackagePath>drink_fill.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-150.png">
+      <PackagePath>drink_fill.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-200.png">
+      <PackagePath>drink_fill.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-400.png">
+      <PackagePath>drink_fill.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\Maui\App_Financeiro\Finance_app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Finance_app.deps.json">
       <PackagePath>Finance_app.deps.json</PackagePath>

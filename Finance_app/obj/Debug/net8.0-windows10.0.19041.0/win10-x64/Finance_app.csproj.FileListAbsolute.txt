@@ -98,11 +98,6 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win1
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
@@ -149,6 +144,8 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win1
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart2.scale-100.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart1.scale-100.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Finance_app.AssemblyInfoInputs.cache
@@ -178,3 +175,14 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win1
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cifrao.scale-100.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-400.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-200.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-150.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-125.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\building.scale-100.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-400.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-200.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-150.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-125.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\drink_fill.scale-100.png

@@ -2,9 +2,103 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
 		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-		x:Class="Finance_app.Views.HomePage"
-	>
-	
-	
-	
+		x:Class="Finance_app.Views.HomePage" >
+	<ScrollView>
+		<Grid RowDefinitions="Auto,Auto,*" RowSpacing="70" >
+			<CarouselView x:Name="carousel"
+					ItemsSource="{Binding Images}"
+					Margin="20,0" >
+				<CarouselView.ItemTemplate>
+					<DataTemplate>
+						<Frame CornerRadius="20"
+								Padding="0"
+								HasShadow="False"
+								IsClippedToBounds="True"
+								HeightRequest="200" >
+							<Image Source="{Binding .}"
+									Aspect="AspectFill"
+									HorizontalOptions="FillAndExpand"
+									VerticalOptions="FillAndExpand" />
+						</Frame>
+					</DataTemplate>
+				</CarouselView.ItemTemplate>
+			</CarouselView>
+
+			<Grid ColumnDefinitions="*,*,*,*" Grid.Row="1" >
+				<Frame WidthRequest="48"
+						HeightRequest="48"
+						CornerRadius="24"
+						BackgroundColor="Black"
+						Padding="0"
+						HasShadow="False"
+						HorizontalOptions="Center"
+						VerticalOptions="Center" >
+					<ImageButton Source="drink_fill"
+							WidthRequest="24"
+							HeightRequest="24"
+							BackgroundColor="Transparent"
+							Clicked="OnDrinkClicked" />
+				</Frame>
+
+				<Frame Grid.Column="1"
+						WidthRequest="48"
+						HeightRequest="48"
+						CornerRadius="24"
+						BackgroundColor="Black"
+						Padding="0"
+						HasShadow="False"
+						HorizontalOptions="Center"
+						VerticalOptions="Center" >
+					<ImageButton Source="drink_fill"
+							WidthRequest="24"
+							HeightRequest="24"
+							BackgroundColor="Transparent"
+							Clicked="OnDrinkClicked" />
+				</Frame>
+
+				<Frame Grid.Column="2"
+						WidthRequest="48"
+						HeightRequest="48"
+						CornerRadius="24"
+						BackgroundColor="Black"
+						Padding="0"
+						HasShadow="False"
+						HorizontalOptions="Center"
+						VerticalOptions="Center" >
+					<ImageButton Source="drink_fill"
+							WidthRequest="24"
+							HeightRequest="24"
+							BackgroundColor="Transparent"
+							Clicked="OnDrinkClicked" />
+				</Frame>
+
+				<Frame Grid.Column="3"
+						WidthRequest="48"
+						HeightRequest="48"
+						CornerRadius="24"
+						BackgroundColor="Black"
+						Padding="0"
+						HasShadow="False"
+						HorizontalOptions="Center"
+						VerticalOptions="Center" >
+					<ImageButton Source="drink_fill"
+							WidthRequest="24"
+							HeightRequest="24"
+							BackgroundColor="Transparent"
+							Clicked="OnDrinkClicked" />
+				</Frame>
+			</Grid>
+			<Grid Grid.Row="2" Margin="20,0" >
+
+				<Label Text="Transações"
+						FontSize="24"
+						FontAttributes="Bold"
+						HorizontalOptions="Start"
+						TextColor="Grey"/>
+
+			</Grid>
+
+		</Grid>
+
+	</ScrollView>
 </ContentPage>
