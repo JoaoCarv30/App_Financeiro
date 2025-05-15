@@ -258,9 +258,6 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauifont.inputs
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
-C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -273,6 +270,8 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\cart1.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\cart2.png
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\mauiimage.outputs
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
@@ -300,3 +299,10 @@ C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Finance_app.pdb
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Finance_app.genruntimeconfig.cache
 C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Finance_app.dll
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\cifrao.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\building@3x.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\building@2x.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\building.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\drink_fill@3x.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\drink_fill@2x.png
+C:\Dev\Maui\App_Financeiro\Finance_app\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\drink_fill.png
