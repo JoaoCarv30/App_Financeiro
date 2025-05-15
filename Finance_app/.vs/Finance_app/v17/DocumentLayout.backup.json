@@ -1,12 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dev\\Maui\\Maui_Finance\\Finance_app\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Juan-PC\\source\\repos\\App_Financeiro\\Finance_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB338079-195F-41D0-8D6F-EEDC3FC6BB65}|Finance_app.csproj|c:\\users\\juan-pc\\source\\repos\\app_financeiro\\finance_app\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB338079-195F-41D0-8D6F-EEDC3FC6BB65}|Finance_app.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB338079-195F-41D0-8D6F-EEDC3FC6BB65}|Finance_app.csproj|c:\\users\\juan-pc\\source\\repos\\app_financeiro\\finance_app\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB338079-195F-41D0-8D6F-EEDC3FC6BB65}|Finance_app.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Juan-PC\\source\\repos\\App_Financeiro\\Finance_app\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Juan-PC\\source\\repos\\App_Financeiro\\Finance_app\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T00:50:13.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Juan-PC\\source\\repos\\App_Financeiro\\Finance_app\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Juan-PC\\source\\repos\\App_Financeiro\\Finance_app\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:37:17.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

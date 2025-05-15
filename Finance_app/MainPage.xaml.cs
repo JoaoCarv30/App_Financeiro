@@ -2,23 +2,39 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private async void OnLoginClicked(object sender, EventArgs e)
         {
-            count++;
+            string email = EntryEmail.Text;
+            string Password = EntryPassword.Text;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
+            //Teste
+
+            if (string.IsNullOrWhiteSpace(email) || string.IsNullOrWhiteSpace(Password))
+            {
+                ErrorMsg.Text = "Preencha todos os campos";
+                ErrorMsg.IsVisible = true;
+                return;
+
+            }
+
+            if (email == "juan@maui.com" && Password == "1234")
+            {
+                ErrorMsg.IsVisible = false;
+                await Navigation.PushAsync(new MainPage());
+
+            }
+
             else
-                CounterBtn.Text = $"Clicked {count} times";
+            {
+                ErrorMsg.Text = "Suas credenciais são inválidas.";
+                ErrorMsg.IsVisible = true;
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            }
         }
     }
 
