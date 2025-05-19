@@ -1,20 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Finance_app.MainPage">
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+		x:Class="Finance_app.MainPage"
+		Title="Login">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Padding="30,0"
-            Spacing="25">
-            
-            <Button
-                x:Name="CounterBtn"
-                Text="Navigate to Home" 
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
-                HorizontalOptions="Fill" />
-        </VerticalStackLayout>
-    </ScrollView>
+	<VerticalStackLayout 
+			Padding="30" Spacing="20"
+			VerticalOptions="Center"
+	>
+		<Image Source="cart1.png"
+				HeightRequest="150"
+				WidthRequest="150"
+				HorizontalOptions="Center"
+		/>
+
+		<Label Text="Bem-vindo ao InvestBank"
+				FontSize="26"
+				FontAttributes="Bold"
+				HorizontalOptions="Center"/>
+
+		<Entry x:Name="EntryEmail"
+				Placeholder="E-mail"
+				Keyboard="Email"  />
+
+		<Entry x:Name="EntryPassword"
+				Placeholder="Senha"
+				IsPassword="True"    />
+
+		<Button Text="Login"
+				BackgroundColor="LimeGreen"
+				TextColor="White"
+				Clicked="OnCounterClicked"
+		/>
+
+		<Label x:Name="ErrorMsg"
+				Text=""
+				TextColor="Red"
+				IsVisible="False"
+				HorizontalOptions="Center"   />
+
+	</VerticalStackLayout>
 
 </ContentPage>
